@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("MIAPR_Lab7")]
+[assembly: AssemblyTitle("Miapr_Laba7")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MIAPR_Lab7")]
+[assembly: AssemblyProduct("Miapr_Laba7")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("09fd5d6c-ce19-4012-b577-4c915561c4f4")]
+[assembly: Guid("5cc28e51-ea90-4d25-82a5-83a6c1d006bc")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

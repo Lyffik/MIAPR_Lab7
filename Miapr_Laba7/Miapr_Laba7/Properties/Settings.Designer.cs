@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MIAPR_Lab7.Properties
+namespace Miapr_Laba7.Properties
 {
 
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MIAPR_Lab7
+namespace Miapr_Laba7
 {
     static class Program
     {
